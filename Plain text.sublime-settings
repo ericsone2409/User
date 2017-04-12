@@ -1,0 +1,8 @@
+// These settings override both User and Default settings for the Plain text syntax
+{
+	"match_brackets": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_brackets_braces": false,
+	"match_tags": false,
+}

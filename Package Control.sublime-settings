@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Bootstrap 3 Autocomplete",
+		"Boxy Theme",
+		"CSS3",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Java Velocity",
+		"jQuery",
+		"Material Theme",
+		"Package Control",
+		"Stylus"
+	]
+}
