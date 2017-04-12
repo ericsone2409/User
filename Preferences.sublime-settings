@@ -13,5 +13,6 @@
 	"theme_sidebar_folder_atomized": true,
 	"theme_sidebar_heading_bold": true,
 	"theme_sidebar_icon_saturation_hg": true,
-	"theme_sidebar_icon_saturation_xh": true
+	"theme_sidebar_icon_saturation_xh": true,
+	"material_theme_appbar_charcoal": true
 }
