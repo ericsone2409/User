@@ -6,6 +6,7 @@
 		"Vintage"
 	],
 	"material_theme_accent_blue": true,
+	"material_theme_appbar_charcoal": true,
 	"material_theme_contrast_mode": true,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"theme_sidebar_close_always_visible": true,
@@ -13,6 +14,5 @@
 	"theme_sidebar_folder_atomized": true,
 	"theme_sidebar_heading_bold": true,
 	"theme_sidebar_icon_saturation_hg": true,
-	"theme_sidebar_icon_saturation_xh": true,
-	"material_theme_appbar_charcoal": true
+	"theme_sidebar_icon_saturation_xh": true
 }

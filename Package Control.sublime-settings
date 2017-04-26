@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AngularJS",
+		"Babel",
 		"Bootstrap 3 Autocomplete",
 		"Boxy Theme",
 		"CSS3",
@@ -17,6 +18,8 @@
 		"Material Theme",
 		"Material Theme - Appbar",
 		"Package Control",
+		"React Templates",
+		"ReactJS",
 		"Stylus"
 	]
 }
